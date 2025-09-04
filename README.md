@@ -45,6 +45,3 @@ Scawy-Words-Censor-Extension/
 
 ## Optional tweaks
 - Adjust popup duration in content.js by modifying the timeout (default 5000 ms).  
-[7](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-[8](https://dev.to/lmn/writing-a-template-for-browser-extensions-2alg)
-[9](https://developer.chrome.com/docs/webstore/best-practices)
